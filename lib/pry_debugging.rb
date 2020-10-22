@@ -1,3 +1,3 @@
 def plus_two(num)
-	num = num + 2learn
+	num = num + 2
 end
